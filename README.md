@@ -184,7 +184,7 @@
 <li>Bauland inkl. Art der Nutzung vom LVermGeo</li>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-<h2>Wärmebedarfsberechnung</h2>
+<h2>Wärmebedarfsberechnung (gebäudescharf, Siedlungsblock, Straßenabschnitt)</h2>
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
@@ -227,25 +227,6 @@
 <h4>Verbesserungspotenzial</h4>
 <li>Verifizierung der spezifischen Nutzenergiebedarfe, vgl. https://www.ifeu.de/fileadmin/uploads/Publikationen/Energie/ifeu_gef_geomer_Modellbeschreibung_Waermeatlas_Deutschland_3.0_01_2024.pdf</li>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Wärmebedarf Baublock
-Wärmebedarf Straßenabschnitt
-mapping_gebaeude_strassenabschnitt
-<br>
-<br><b>DATENVISUALISIERUNG</b> 
-<br>https://kwp-st.de/kvwmap/index.php
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<h2>Datenvisualisierung</h2>
+<li>https://kwp-st.de/kvwmap/index.php</li>
