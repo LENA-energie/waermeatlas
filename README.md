@@ -59,13 +59,12 @@
   </tbody>
 </table>
 
-<h3>Quellenangaben</h3>
+<h4>Quellenangaben</h4>
 <li>Langreder, Nora; Lettow, Frederik; Sahnoun, Malek; Kreidelmeyer, Sven; Wünsch, Aurel; Lengning, Saskia et al. (2024): Technikkatalog Wärmeplanung. Hg. v. ifeu – Institut für Energie- und Umweltforschung Heidelberg, Öko-Institut e.V., IER Stuttgart, adelphi consult GmbH, Becker Büttner Held PartGmbB, Prognos AG, et al. Online verfügbar unter https://www.kww-halle.de/praxis-kommunale-waermewende/bundesgesetz-zur-waermeplanung#c636, zuletzt geprüft am 02.05.2025.</li>
 <li>Hörner, Michael; Bischof, Julian. Typologie der Nichtwohngebäude in Deutschland. Institut Wohnen und Umwelt (IWU). Darmstadt, 2022. DOI: 10.13140/RG.2.2.31628.80008, URL: https://github.com/IWUGERMANY/Nichtwohngebaeude-Typologie-Deutschland/tree/main</li>
-<li>VDI 3807 Blatt 2 Verbrauchskennwerte für Gebäude – Verbrauchskennwerte für Heizenergie, Strom und Wasser. Berlin: Beuth Verlag, November 2014</li>
 <li>Institut Wohnen und Umwelt GmbH. Deutsche Wohngebäudetypologie Beispielhafte Maßnahmen zur Verbesserung der Energieeffizienz von typischen Wohngebäuden, Darmstadt 2015, online verfügbar: https://www.iwu.de/fileadmin/publikationen/gebaeudebestand/episcope/2015_IWU_LogaEtAl_Deutsche-Wohngeb%C3%A4udetypologie.pdf</li>
 
-<h3>Verbesserungspotenzial</h3>
+<h4>Verbesserungspotenzial</h4>
 <li>OpenStreetMap für Bauweise gebäudescharf</li>
 <li>Zensusdaten je Siedlungsblock</li>
 <li>Bauland-Datensatz vom LVermGeo mit Bauweise (offen/geschlossen)</li>
@@ -78,8 +77,8 @@
   <thead>
   <tr>
     <th width=20%>Herausgeber</th>
-    <th width=50%>Thema/Information</th>
-    <th width=30%>Hinweise auf</th>
+    <th width=60%>Thema/Information</th>
+    <th width=20%>Hinweise auf</th>
   </tr>    
   </thead>
   <tbody>
@@ -101,7 +100,7 @@
   </tbody>
 </table>
 
-<h3>Verbesserungspotenzial</h3>
+<h4>Verbesserungspotenzial</h4>
 <li>Zensusdaten je Siedlungsblock</li>
 <li>Bauanträge</li>
 <li>ImmobilienScout24</li>
@@ -113,17 +112,10 @@
   <thead>
   <tr>
     <th width=20%>Herausgeber</th>
-    <th width=50%>Thema/Information</th>
-    <th width=30%>Hinweise auf</th>
+    <th width=60%>Thema/Information</th>
+    <th width=20%>Hinweise auf</th>
   </tr>    
   </thead>
-  <tr>
-    <td>Bundesamt für Kartographie und Geodäsie</td>
-    <td>
-      <li>ALKIS-Dachformen</li>
-    </td>
-    <td>Katalogwerte</td>
-   </tr>
   <tr>
     <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
     <td>
@@ -134,15 +126,24 @@
     <td>Gebäudepolygon, Gebäudegrundfläche, Dachform, Gebäudehöhe</td>
    </tr>
    <tr>
+    <td>Bundesamt für Kartographie und Geodäsie</td>
+    <td>
+      <li>ALKIS Gebäudefunktion</li>
+      <li>ALKIS-Dachformen</li>
+    </td>
+    <td>Katalogwerte</td>
+  </tr>
+  <tr>
     <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
     <td>
       <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)</li>
     </td>
-     <td>-</td>
+     <td>Flächenkorrekturfaktor</td>
    </tr>
 </table>
 
-
+<h4>Quellenangaben</h4>
+<li>VDI 3807 Blatt 2 Verbrauchskennwerte für Gebäude – Verbrauchskennwerte für Heizenergie, Strom und Wasser. Berlin: Beuth Verlag, November 2014</li>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Einstufung von Gebäuden als GEG-relevant</h2>
