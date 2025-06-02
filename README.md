@@ -58,7 +58,7 @@
    </tr>
 </table>
 <br>
-<br><b>METHODIK</b>
+<br><b>MODELLENTWICKLUNG</b>
 <br>
 <table>
   <thead>
@@ -69,7 +69,19 @@
   </tr>    
   </thead>
   <tr>
-    <th>Energetische Gebäudetypisierung</th>
+    <th><b>Energetische Gebäudetypisierung</b>: Ein- und Zweifamilienhaus (EFH), Reihenhaus (RH), Mehrfamilienhaus (MFH), Großes Mehrfamilienhaus (GMH), Büro-, Verwaltungs- oder Amtsgebäude, Gebäude für Forschung und Hochschullehre, Gebäude für Gesundheit und Pflege
+Schule, Kindertagesstätte und sonstige Betreuungsgebäude
+154.230 266.561.645
+Gebäude für Kultur und Freizeit 141.211 118.654.322
+Sportgebäude 78.118 107.346.028
+Beherbergungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude
+270.403 213.360.502
+Produktions-, Werkstatt-, Lager- oder Betriebsgebäude
+(Im Modell aufgeteilt in GHD & Industrie)
+974.448 1.354.234.922
+Handelsgebäude 187.277 407.028.666
+Technikgebäude (Ver- und Entsorgung) 67.860 25.297.594
+Verkehrsgebäude </th>
     <th>ALKIS-Gebäudefunktion, Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)</th>
     <th>OpenStreetMap für Bauweise; Zensusdaten je Siedlungsblock; Bauland-Datensatz vom LVermGeo mit Bauweise (offen/geschlossen), Geschosszahl</th>
   </tr>  
@@ -86,12 +98,12 @@
   <tr>
     <th>Einstufung von Gebäuden als GEG-relevant</th>
     <th>Basis-DLM: Siedlung: Wohnbaufläche, etc.</th>
-    <th>Bauland-Datensatz vom LVermGeo mit Art der Nutzung; BImSc; Wirtschaftszweig von MaStR-Anlagenbetreiber</th>
+    <th>Bauland-Datensatz vom LVermGeo mit Art der Nutzung; BImSchG; DEHst; Wirtschaftszweig von MaStR-Anlagenbetreiber</th>
   </tr>  
   <tr>
     <th>Wärmebedarf Gebäude</th>
-    <th>x</th>
-    <th>x</th>
+    <th>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD); Referenzwerte spezifischer Nutzenergiebedarf; Energiebezugsfläche</th>
+    <th>Verifizierung der spezifischen Nutzenergiebedarfe, vgl. https://www.ifeu.de/fileadmin/uploads/Publikationen/Energie/ifeu_gef_geomer_Modellbeschreibung_Waermeatlas_Deutschland_3.0_01_2024.pdf</th>
   </tr>  
   <tr>
     <th>Wärmebedarf Baublock</th>
