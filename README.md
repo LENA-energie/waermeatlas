@@ -197,7 +197,17 @@
     <th width=20%>Hinweise auf</th>
   </tr>    
   </thead>
-  <tr>
+     <tr>
+    <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
+    <td>
+      <li>Referenzwerte spezifischer Nutzenergiebedarf</li>
+      <li>Geodatenbank energetisch typisierter Einzelgebäude</li>
+      <li>Baualtersklasse</li>
+      <li>Energiebezugsfläche</li>
+    </td>
+     <td>-</td>
+   </tr>
+   <tr>
     <td>Bundesamt für Kartographie und Geodäsie</td>
     <td>
       <li>ALKIS-Strassenfunktion</li>
@@ -212,13 +222,6 @@
       <li>Basis-DLM: Verkehr: Straßenachse, Fahrbahnachse</li>
     </td>
     <td>Siedlungsblock, Strassenabschnitt</td>
-   </tr>
-   <tr>
-    <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
-    <td>
-      <li>Referenzwerte spezifischer Nutzenergiebedarf</li>
-    </td>
-     <td>-</td>
    </tr>
 </table>
 
