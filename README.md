@@ -21,13 +21,13 @@
 <li>Verkehrsgebäude</li>
 <br>
 
-<table id='table-4'>
+<table border='0' width='100%' id='table-4'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
-    <th width=20%>Herausgeber</th>
-    <th width=50%>Thema/Information</th>
-    <th width=30%>Hinweise auf</th>
+    <th width=20% scope="col">Herausgeber</th>
+    <th width=50% scope="col">Thema/Information</th>
+    <th width=30% scope="col">Hinweise auf</th>
   </tr>    
   </thead>
   <tbody>
