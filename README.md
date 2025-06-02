@@ -4,6 +4,21 @@
 
 <h3>Geodatenbank energetisch typisierter Einzelgebäude</h3>
 <br>
+<li>Ein- und Zweifamilienhaus (EFH)</li>
+<li>Reihenhaus (RH)</li>
+<li>Mehrfamilienhaus (MFH)</li>
+<li>Großes Mehrfamilienhaus (GMH)</li>
+<li>Büro-, Verwaltungs- oder Amtsgebäude</li>
+<li>Gebäude für Forschung und Hochschullehre</li>
+<li>Gebäude für Gesundheit und Pflege</li>
+<li>Schule, Kindertagesstätte und sonstige Betreuungsgebäude</li>
+<li>Gebäude für Kultur und Freizeit</li>
+<li>Sportgebäude</li>
+<li>Beherbergungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude</li>
+<li>Produktions-, Werkstatt-, Lager- oder Betriebsgebäude (Im Modell aufgeteilt in GHD & Industrie)</li>
+<li>Handelsgebäude</li>
+<li>Technikgebäude (Ver- und Entsorgung)</li>
+<li>Verkehrsgebäude</li>
 <table>
   <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
   <thead>
