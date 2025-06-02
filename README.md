@@ -4,8 +4,8 @@
 <table>
   <thead>
   <tr>
-    <th width=30%>Herausgeber</th>
-    <th width=40%>Thema/Information</th>
+    <th width=20%>Herausgeber</th>
+    <th width=50%>Thema/Information</th>
     <th width=30%>Hinweise auf</th>
   </tr>    
   </thead>
@@ -63,9 +63,9 @@
 <table>
   <thead>
   <tr>
-    <th>Thema/Information</th>
-    <th>Methodik</th>
-    <th>Verbesserungspotenzial</th>
+    <th width=20%>Thema/Information</th>
+    <th width=50%>Methodik</th>
+    <th width=30%>Verbesserungspotenzial</th>
   </tr>    
   </thead>
   <tr>
