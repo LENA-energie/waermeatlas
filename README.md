@@ -3,7 +3,7 @@
 <h2>DATENBASIS</h2>
 <br>
 <table>
-  <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>caption>
+  <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
     <th width=20%>Herausgeber</th>
