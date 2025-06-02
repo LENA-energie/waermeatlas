@@ -13,13 +13,14 @@
     <th width=30%>Hinweise auf</th>
   </tr>    
   </thead>
+  <tbody>
   <tr>
-    <td>Bundesamt für Kartographie und Geodäsie</td>
+    <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
     <td>
-      <li>ALKIS Gebäudefunktion</li>
+      <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)</li>
     </td>
-    <td>Katalogwerte</td>
-   </tr>
+     <td>-</td>
+  </tr>
   <tr>
     <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
     <td>
@@ -28,19 +29,20 @@
     <td>Gebäudefunktion</td>
    </tr>
    <tr>
+    <td>Bundesamt für Kartographie und Geodäsie</td>
+    <td>
+      <li>ALKIS Gebäudefunktion</li>
+    </td>
+    <td>Katalogwerte</td>
+   </tr>
+  <tr>
     <td>Statistische Ämter des Bundes und der Länder (Zensus 2022)</td>
     <td>
       <li>Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)</li>
     </td>
      <td>Wohngebäude, Gebäudetyp</td>
    </tr>
-   <tr>
-    <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
-    <td>
-      <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)</li>
-    </td>
-     <td>-</td>
-   </tr>
+  </tbody>
 </table>
 
 <h4>Quellenangaben</h4>
