@@ -5,8 +5,10 @@ Datenbasis:
 - ALKIS®-Datensatz Gebäude [AGS24]
 - 3D-Gebäudedaten LoD2 (3D-Modell mit standardisierten Dachformen)
 - 3D-Gebäudedaten LoD1 (Klötzchen- bzw. Blockmodell)
-- ALKIS Gebäudefunktion
 - ALKIS-Dachformen
+- ALKIS Gebäudefunktion
+- ALKIS-Strassenfunktion
+- ALKIS-Widmung-Strasse
 - Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)
 - Referenzwerte spezifischer Nutzenergiebedarf
 - Bebauungsplan, genehmigt/rechtskräftig
@@ -17,7 +19,8 @@ Datenbasis:
 - Zensus 2022: Gebäude mit Wohnraum nach überwiegender Heizungsart (100m Gitter)
 - Basis-DLM: Siedlungsblock
 - xx: mapping_gebaeude_strassenabschnitt
-
+- Verkehr: Straßenachse, Fahrbahnachse
+  
 Methodik:
 - Energetische Gebäudetypisierung
 - Baualtersklasse
