@@ -67,10 +67,17 @@
 <li>Institut Wohnen und Umwelt GmbH. Deutsche Wohngebäudetypologie Beispielhafte Maßnahmen zur Verbesserung der Energieeffizienz von typischen Wohngebäuden, Darmstadt 2015, online verfügbar: https://www.iwu.de/fileadmin/publikationen/gebaeudebestand/episcope/2015_IWU_LogaEtAl_Deutsche-Wohngeb%C3%A4udetypologie.pdf</li>
 
 <h3>Verbesserungspotenzial</h3>
-<h3>Baualtersklasse</h3>
-<h3>Energiebezugsfläche</h3>
-<h3>Einstufung von Gebäuden als GEG-relevant</h3>
-<h3>Wärmebedarfsberechnung</h3>
+<li>OpenStreetMap für Bauweise gebäudescharf</li>
+<li>Zensusdaten je Siedlungsblock</li>
+<li>Bauland-Datensatz vom LVermGeo mit Bauweise (offen/geschlossen)</li>
+<li>ImmobilienScout24</li>
+
+
+
+<h2>Baualtersklasse</h2>
+<h2>Energiebezugsfläche</h2>
+<h2>Einstufung von Gebäuden als GEG-relevant</h2>
+<h2>Wärmebedarfsberechnung</h2>
 
 
 
