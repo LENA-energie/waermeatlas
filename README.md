@@ -1,5 +1,30 @@
 # Modellentwicklung nach dem Energiekennzahlenverfahren
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<h2>Übersicht Datenpunkte Wärmeatlas Sachsen-Anhalt</h2>
+<table>
+  <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
+  <thead>
+  <tr>
+    <th width=20%>Parameter</th>
+    <th width=60%>Spaltentitel</th>
+    <th width=20%>Beschreibung</th>
+  </tr>    
+  </thead>
+  <tbody>
+  <tr>
+    <td>Gebäude-ID</td>
+    <td>x</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Geometriepunkt</td>
+    <td>shape</td>
+    <td>Mittelpunkt der Gebäudegrundfläche</td>
+  </tr>
+  </tbody>
+</table>
+
+<br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
 <li>Reihenhaus (RH)</li>
