@@ -1,13 +1,13 @@
 # Modellentwicklung nach dem Energiekennzahlenverfahren
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-<h2>Übersicht Datenpunkte Wärmeatlas Sachsen-Anhalt</h2>
+<h2>Beschreibung</h2>
 <table width='100%'>
-  <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
+  <caption>Übersicht Datenpunkte Wärmeatlas Sachsen-Anhalt</caption>
   <thead>
   <tr>
     <th width=20%>Parameter</th>
-    <th width=60%>Spaltentitel</th>
-    <th width=20%>Beschreibung</th>
+    <th width=20%>Spaltentitel</th>
+    <th width=60%>Beschreibung</th>
   </tr>    
   </thead>
   <tbody>
