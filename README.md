@@ -133,13 +133,64 @@
     <td>X</td>
   </tr>
   <tr>
+    <td>geb_typ_p</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>bak_ezfh</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+    <tr>
+    <td>bak_mfh</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>bak_nwg</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>  
+  <tr>
+    <td>bak_z</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>  
+    <tr>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>  
+    <tr>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>  
+  
+  <tr>
     <td>Geometriepunkt</td>
-    <td>shape</td>
+    <td>the_geom</td>
     <td>Mittelpunkt der Gebäudegrundfläche</td>
   </tr>
   </tbody>
 </table>
-  geb_typ_p, bak_ezfh, bak_mfh, bak_nwg, bak_z, bak_z_p, gmdschl, strssname, gid_tn, gid_str, objid_str, gitter_id, gid_bp, gid_fnp, the_geom
+  , , , , , bak_z_p, gmdschl, strssname, gid_tn, gid_str, objid_str, gitter_id, gid_bp, gid_fnp, 
   
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
