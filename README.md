@@ -107,7 +107,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Energiebezugsfläche</h2>
 <table>
-  <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
+  <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
     <th width=20%>Herausgeber</th>
@@ -143,6 +143,7 @@
 
 <h4>Quellenangaben</h4>
 <li>VDI 3807 Blatt 2 Verbrauchskennwerte für Gebäude – Verbrauchskennwerte für Heizenergie, Strom und Wasser. Berlin: Beuth Verlag, November 2014</li>
+<li>Dochev, Ivan. assigning-energetic-types-to-buildings, URL: https://github.com/ivandochev/assigning-energetic-types-to-buildings/blob/master/IWU_VDI_Types_Assigning_asTool_arcgisread_ExtDaten_v3.py</li>
 
 <h4>Verbesserungspotenzial</h4>
 <li>Gebäudehöhen (DE), URL: https://code-de.org/de/portfolio/?id=733c8c77-a4fc-40fd-9e6a-e226da63ab01</li>
@@ -164,6 +165,13 @@
       <li>Basis-DLM: Siedlung: Wohnbaufläche, etc. --> Siedlungsblock</li>
     </td>
     <td>tatsächliche Nutzung der Fläche</td>
+   </tr>
+    <tr>
+    <td>Bundesamt für Kartographie und Geodäsie</td>
+    <td>
+      <li>divers</li>
+    </td>
+    <td>Bezeichnungen für Katalogwerte ()</td>
    </tr>
 </table>
 
@@ -187,7 +195,7 @@
       <li>ALKIS-Strassenfunktion</li>
       <li>ALKIS-Widmung-Strasse</li>
     </td>
-    <td>Katalogwerte</td>
+    <td>Bezeicnungen zu Straßenfunktion und Straßenwidmung</td>
    </tr>
   <tr>
     <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
