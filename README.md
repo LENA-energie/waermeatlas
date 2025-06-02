@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
 <style>
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
 </style>
-</head>
-<body>
 
 <h2>Collapsed Borders</h2>
 <p>If you want the borders to collapse into one border, add the CSS border-collapse property.</p>
