@@ -185,6 +185,9 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Wärmebedarfsberechnung (gebäudescharf, Siedlungsblock, Straßenabschnitt)</h2>
+<br><b>gebäudescharf:</b> Energiezugsfläche [m²] x Spezifischer Heiz-/Warmwasserbedarf [kWh/m²a] = Nutzenergiebedarf Heizung und Warmwasser [kWh/a]
+<br><b>Siedlungsblock:</b> -
+<br><b>Straßenabschnitt:</b> -
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
