@@ -1,11 +1,5 @@
 # Modellentwicklung
-<head>
-<title>Google Icons</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-</head>
-<body>
-<i class="material-icons">cloud</i>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
 <li>Reihenhaus (RH)</li>
@@ -29,8 +23,8 @@
   <thead>
   <tr border-bottom: 1px solid #ddd; background-color: #4CAF50;>
     <th width=20%;>Herausgeber</th>
-    <th width=50%;>Thema/Information</th>
-    <th width=30%;>Hinweise auf</th>
+    <th width=60%;>Thema/Information</th>
+    <th width=20%;>Hinweise auf</th>
   </tr>    
   </thead>
   <tbody>
@@ -78,7 +72,6 @@
 <li>ImmobilienScout24</li>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-
 <h2>Baualtersklasse</h2>
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
@@ -113,7 +106,7 @@
 <li>Bauanträge</li>
 <li>ImmobilienScout24</li>
 
-
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Energiebezugsfläche</h2>
 <table>
   <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
@@ -151,11 +144,10 @@
 
 
 
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Einstufung von Gebäuden als GEG-relevant</h2>
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Wärmebedarfsberechnung</h2>
-
-
-
 <br>
 <table>
   <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
