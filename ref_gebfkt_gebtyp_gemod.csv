@@ -1,0 +1,56 @@
+gfkzshh;funktion;endenergiesektor;gebtyp_gemod;gebtyp_gemod_txt;geschosshoehe;hinweis;bwz;flaechenkorrektur_faktor;quelle
+-;Keller;kein_bedarf;;Gesamt;0;;;85;eigene Einschätzung
+-;Tiefgarage;kein_bedarf;;Gesamt;0;;760000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_1000;Wohngebäude;WG;;;2,8;;610000;84;VDI-3807-Blatt2-2-2014-11.pdf
+31001_1100;Gemischt genutztes Gebäude mit Wohnen;gemischt;;;2,8;;610000;85;eigene Einschätzung
+31001_1223;Forsthaus;WG;;;2,8;;612000;84;eigene Einschätzung
+31001_2000;Gebäude für Wirtschaft oder Gewerbe;NWG;8;Produktions-, Werkstatt-, Lager- oder Betriebsgebäude;5;ENEKA-intern: Allgemeines Industrie- und Gewerbegebäude;700000;90;eigene Einschätzung
+31001_2052;Einkaufszentrum;NWG;9;Handelsgebäude;5;ENEKA-intern;720000;90;VDI-3807-Blatt2-2-2014-11.pdf
+31001_2060;Messehalle;NWG;5;Gebäude für Kultur und Freizeit;20;;912000;87;VDI-3807-Blatt2-2-2014-11.pdf
+31001_2072;Jugendherberge;NWG;7;Beherberbungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude;2,8;;630000;85;VDI-3807-Blatt2-2-2014-11.pdf
+31001_2073;Hütte (mit Übernachtungsmöglichkeit);NWG;7;Beherberbungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude;3,5;;640000;85;VDI-3807-Blatt2-2-2014-11.pdf
+31001_2130;Tankstelle;NWG;9;Handelsgebäude;2,8;;838000;85;eigene Einschätzung
+31001_2211;Windmühle;NWG;8;Produktions-, Werkstatt-, Lager- oder Betriebsgebäude;10;;700000;90;eigene Einschätzung
+31001_2212;Wassermühle;NWG;10;Technikgebäude (Ver- und Entsorgung);5;;800000;100;eigene Einschätzung
+31001_2213;Schöpfwerk;NWG;8;Produktions-, Werkstatt-, Lager- oder Betriebsgebäude;3,5;;700000;90;eigene Einschätzung
+31001_2220;Wetterstation;NWG;10;Technikgebäude (Ver- und Entsorgung);3,5;;800000;100;eigene Einschätzung
+31001_2411;Straßenmeisterei;NWG;11;Verkehrsgebäude;3,5;;771000;86;VDI-3807-Blatt2-2-2014-11.pdf
+31001_2461;Parkhaus;kein_bedarf;;Gesamt;3,5;;760000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_2463;Garage;kein_bedarf;;Gesamt;2,8;;760000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_2512;Pumpstation;NWG;10;Technikgebäude (Ver- und Entsorgung);3,5;;851000;100;eigene Einschätzung
+31001_2513;Wasserbehälter;NWG;10;Technikgebäude (Ver- und Entsorgung);10;;800000;100;eigene Einschätzung
+31001_2740;Treibhaus, Gewächshaus;NWG;8;Produktions-, Werkstatt-, Lager- oder Betriebsgebäude;5;;711200;90;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3000;Gebäude für öffentliche Zwecke;NWG;1;Büro-, Verwaltungs- oder Amtsgebäude;2,8;;100000;85;eigene Einschätzung
+31001_3010;Verwaltungsgebäude;NWG;1;Büro-, Verwaltungs- oder Amtsgebäude;2,8;ENEKA-intern;130000;85;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3011;Parlament;NWG;1;Büro-, Verwaltungs- oder Amtsgebäude;5;ENEKA-intern;110000;85;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3012;Rathaus;NWG;1;Büro-, Verwaltungs- oder Amtsgebäude;5;ENEKA-intern;131000;85;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3015;Gericht;NWG;1;Büro-, Verwaltungs- oder Amtsgebäude;5;ENEKA-intern;120000;83;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3020;Gebäude für Bildung und Forschung;NWG;2;Gebäude für Forschung und Hochschullehre;3,5;;200000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3021;Allgemein bildende Schule;NWG;4;Schule, Kindertagesstätte und sonstige Betreuungsgebäude;3,5;ENEKA-intern;400000;89;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3023;Hochschulgebäude (Fachhochschule, Universität);NWG;2;Gebäude für Forschung und Hochschullehre;3,5;ENEKA-intern;200000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3024;Forschungsinstitut;NWG;2;Gebäude für Forschung und Hochschullehre;3,5;;200000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3030;Gebäude für kulturelle Zwecke;NWG;5;Gebäude für Kultur und Freizeit;5;ENEKA-intern;910000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3031;Schloss;NWG;5;Gebäude für Kultur und Freizeit;20;;916000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3032;Theater, Oper;NWG;5;Gebäude für Kultur und Freizeit;5;ENEKA-intern;914000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3033;Konzertgebäude;NWG;5;Gebäude für Kultur und Freizeit;10;;914000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3034;Museum;NWG;5;Gebäude für Kultur und Freizeit;5;ENEKA-intern;912100;87;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3035;Rundfunk, Fernsehen;NWG;5;Gebäude für Kultur und Freizeit;3,5;;910000;85;eigene Einschätzung
+31001_3037;Bibliothek, Bücherei;NWG;5;Gebäude für Kultur und Freizeit;5;ENEKA-intern;913000;90;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3038;Burg, Festung;NWG;5;Gebäude für Kultur und Freizeit;20;;916000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3041;Kirche;NWG;5;Gebäude für Kultur und Freizeit;20;;911000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3043;Kapelle;NWG;5;Gebäude für Kultur und Freizeit;20;;911300;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3045;Gotteshaus;NWG;5;Gebäude für Kultur und Freizeit;20;;911000;88;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3050;Gebäude für Gesundheitswesen;NWG;3;Gebäude für Gesundheit und Pflege;3,5;;300000;100;eigene Einschätzung
+31001_3051;Krankenhaus;NWG;3;Gebäude für Gesundheit und Pflege;3,5;ENEKA-intern;320000;100;eigene Einschätzung
+31001_3060;Gebäude für soziale Zwecke;NWG;7;Beherberbungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude;3,5;;644000;85;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3071;Polizei;NWG;1;Büro-, Verwaltungs- oder Amtsgebäude;3,5;ENEKA-intern;134000;84;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3072;Feuerwehr;NWG;8;Produktions-, Werkstatt-, Lager- oder Betriebsgebäude;3,5;ENEKA-intern;776000;86;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3073;Kaserne;NWG;7;Beherberbungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude;3,5;;631000;85;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3075;Justizvollzugsanstalt;NWG;1;Büro-, Verwaltungs- oder Amtsgebäude;3,5;;960000;84;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3080;Friedhofsgebäude;kein_bedarf;;Gesamt;3,5;;970100;84;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3090;Empfangsgebäude;NWG;1;Büro-, Verwaltungs- oder Amtsgebäude;3,5;;920000;85;eigene Einschätzung
+31001_3200;Gebäude für Erholungszwecke;NWG;7;Beherberbungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude;3,5;;341000;86;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3211;Sport-, Turnhalle;NWG;6;Sportgebäude;10;ENEKA-intern;511000;91;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3221;Hallenbad;NWG;6;Sportgebäude;10;ENEKA-intern;521100;100;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3242;Sanatorium;NWG;7;Beherberbungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude;3,5;;341000;86;VDI-3807-Blatt2-2-2014-11.pdf
+31001_3281;Schutzhütte;NWG;7;Beherberbungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude;3,5;;640000;85;VDI-3807-Blatt2-2-2014-11.pdf
