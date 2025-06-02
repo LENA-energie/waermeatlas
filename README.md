@@ -9,19 +9,14 @@ Datenbasis:
 - ALKIS-Dachformen
 - Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)
 - Referenzwerte spezifischer Nutzenergiebedarf
-
-
 - Bebauungsplan, genehmigt/rechtskräftig
 - Flächennutzungsplan genehmigt/rechtskräftig
-
 - Zensus 2022: Gebäude mit Wohnraum nach Baujahr in Mikrozensus-Klassen (100m Gitter)
 - Zensus 2022: Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)
 - Zensus 2022: Gebäude mit Wohnraum nach Energieträger der Heizung (100m Gitter)
 - Zensus 2022: Gebäude mit Wohnraum nach überwiegender Heizungsart (100m Gitter)
-
 - Basis-DLM: Siedlungsblock
-- xx
-- : mapping_gebaeude_strassenabschnitt
+- xx: mapping_gebaeude_strassenabschnitt
 
 Methodik:
 - Energetische Gebäudetypisierung
