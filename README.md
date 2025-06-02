@@ -75,7 +75,7 @@
 <li>Industrie: Wirtschaftszweig von MaStR-Anlagenbetreiber</li>
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-<h2>Baualtersklasse</h2>
+<h2>+ Baualtersklasse</h2>
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
@@ -110,7 +110,7 @@
 <li>ImmobilienScout24</li>
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-<h2>Energiebezugsfläche</h2>
+<h2>+ Energiebezugsfläche</h2>
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
@@ -154,7 +154,7 @@
 <li>Gebäudehöhen (DE), URL: https://code-de.org/de/portfolio/?id=733c8c77-a4fc-40fd-9e6a-e226da63ab01</li>
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-<h2>Einstufung von Gebäuden als GEG-relevant</h2>
+<h2>+ Einstufung von Gebäuden als GEG-relevant</h2>
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
