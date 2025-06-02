@@ -16,7 +16,7 @@
 <li>Handelsgebäude</li>
 <li>Technikgebäude (Ver- und Entsorgung)</li>
 <li>Verkehrsgebäude</li>
-
+<br>
 <table width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
@@ -185,10 +185,12 @@
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Wärmebedarfsberechnung</h2>
+<br>
 <li><b>Nutzenergiebedarf Heizung und Warmwasser [kWh/a] (je Gebäude) = </b> Energiezugsfläche [m²] x Spezifischer Heiz-/Warmwasserbedarf [kWh/(m²a)]</li>
 <li><b>Nutzenergiebedarf Heizung und Warmwasser [MWh/(ha*a)] (je Siedlungsblock) = </b> Summe(Nutzenergiebedarf(Gebäude)) [MWh/a] / Fläche des Siedlungsblocks [ha]</li>
 <li>Berechnung der nächstgelegenen Straße je Gebäude</li>
 <li><b>Nutzenergiebedarf Heizung und Warmwasser [MWh/(m*a)] (je Straßenabschnitt) = </b> Summe(Nutzenergiebedarf(Gebäude))[MWh/a] / Länge des Straßenabschnitts [m]</li>
+<br>
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
