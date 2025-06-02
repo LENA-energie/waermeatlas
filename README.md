@@ -1,6 +1,4 @@
-# waermeatlas
-<br>
-<h1>Modellentwicklung</h1>
+# Modellentwicklung
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
 <li>Reihenhaus (RH)</li>
