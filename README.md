@@ -33,7 +33,7 @@
     <td>
       <li>ALKIS Gebäudefunktion</li>
     </td>
-    <td>Katalogwerte</td>
+    <td>Bezeichnung zur Gebäudefunktion</td>
    </tr>
   <tr>
     <td>Statistische Ämter des Bundes und der Länder (Zensus 2022)</td>
