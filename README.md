@@ -17,13 +17,13 @@
 <li>Verkehrsgebäude</li>
 <br>
 
-<table border='0' width='100%'>
+<table width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
-  <tr border-bottom: 1px solid #ddd;>
-    <th width=20%; background-color: grey;>Herausgeber</th>
-    <th width=50%; background-color: grey;>Thema/Information</th>
-    <th width=30%; background-color: grey;>Hinweise auf</th>
+  <tr border-bottom: 1px solid #ddd; background-color: #4CAF50;>
+    <th width=20%;>Herausgeber</th>
+    <th width=50%;>Thema/Information</th>
+    <th width=30%;>Hinweise auf</th>
   </tr>    
   </thead>
   <tbody>
