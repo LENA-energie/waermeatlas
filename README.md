@@ -2,6 +2,10 @@
 <br>
 <h2>Modellentwicklung</h2>
 
+<h3>Geodatenbank energetisch typisierter Einzelgebäude</h3>
+<h3>Energiebezugsfläche</h3>
+<h3>Wärmebedarfsberechnung</h3>
+
 <br>
 <table>
   <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
