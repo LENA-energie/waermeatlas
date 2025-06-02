@@ -17,7 +17,6 @@
 <li>Technikgebäude (Ver- und Entsorgung)</li>
 <li>Verkehrsgebäude</li>
 
-<br>
 <table width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
@@ -131,39 +130,60 @@
       <li>ALKIS Gebäudefunktion</li>
       <li>ALKIS-Dachformen</li>
     </td>
-    <td>Katalogwerte</td>
+    <td>Bezeichnungen zur Gebäudefunktion und Dachform</td>
   </tr>
   <tr>
     <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
     <td>
       <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)</li>
     </td>
-     <td>Flächenkorrekturfaktor</td>
+     <td>Flächenkorrekturfaktor Grundfläche zu Energiebezugsfläche</td>
    </tr>
 </table>
 
 <h4>Quellenangaben</h4>
 <li>VDI 3807 Blatt 2 Verbrauchskennwerte für Gebäude – Verbrauchskennwerte für Heizenergie, Strom und Wasser. Berlin: Beuth Verlag, November 2014</li>
 
+<h4>Verbesserungspotenzial</h4>
+<li>Gebäudehöhen (DE), URL: https://code-de.org/de/portfolio/?id=733c8c77-a4fc-40fd-9e6a-e226da63ab01</li>
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Einstufung von Gebäuden als GEG-relevant</h2>
+<table>
+  <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
+  <thead>
+  <tr>
+    <th width=20%>Herausgeber</th>
+    <th width=60%>Thema/Information</th>
+    <th width=20%>Hinweise auf</th>
+  </tr>    
+  </thead>
+  <tr>
+    <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
+    <td>
+      <li>Basis-DLM: Siedlung: Wohnbaufläche, etc. --> Siedlungsblock</li>
+    </td>
+    <td>tatsächliche Nutzung der Fläche</td>
+   </tr>
+</table>
+
+<h4>Verbesserungspotenzial</h4>
+<li>Bauland inkl. Art der Nutzung vom LVermGeo</li>
+
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Wärmebedarfsberechnung</h2>
-<br>
 <table>
   <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
     <th width=20%>Herausgeber</th>
-    <th width=50%>Thema/Information</th>
-    <th width=30%>Hinweise auf</th>
+    <th width=60%>Thema/Information</th>
+    <th width=20%>Hinweise auf</th>
   </tr>    
   </thead>
   <tr>
     <td>Bundesamt für Kartographie und Geodäsie</td>
     <td>
-      <li>ALKIS-Dachformen</li>
-      <li>ALKIS Gebäudefunktion</li>
       <li>ALKIS-Strassenfunktion</li>
       <li>ALKIS-Widmung-Strasse</li>
     </td>
@@ -172,43 +192,19 @@
   <tr>
     <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
     <td>
-      <li>ALKIS®-Datensatz Gebäude [AGS24]</li>
-      <li>3D-Gebäudedaten LoD2 (3D-Modell mit standardisierten Dachformen)</li>
-      <li>3D-Gebäudedaten LoD1 (Klötzchen- bzw. Blockmodell)</li>
       <li>Basis-DLM: Siedlung: Wohnbaufläche, etc. --> Siedlungsblock</li>
       <li>Basis-DLM: Verkehr: Straßenachse, Fahrbahnachse</li>
     </td>
-    <td>Gebäudepolygon, Gebäudegrundfläche, Gebäudefunktion, Dachform, Gebäudehöhe, tatsächliche Nutzung der Fläche</td>
-   </tr>
-   <tr>
-    <td>Statistische Ämter des Bundes und der Länder (Zensus 2022)</td>
-    <td>
-      <li>Gebäude mit Wohnraum nach Baujahr in Mikrozensus-Klassen (100m Gitter)</li>
-      <li>Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)</li>
-      <li>Gebäude mit Wohnraum nach Energieträger der Heizung (100m Gitter)</li>
-      <li>Gebäude mit Wohnraum nach überwiegender Heizungsart (100m Gitter)</li>
-    </td>
-     <td>Wohngebäude, Gebäudetyp, Baualtersklasse</td>
-   </tr>
-   <tr>
-    <td>Ministerium für Infrastruktur und Digitales Sachsen-Anhalt (MID)</td>
-    <td>
-      <li>Bebauungsplan, genehmigt/rechtskräftig</li>
-      <li>Flächennutzungsplan genehmigt/rechtskräftig</li>
-    </td>
-     <td>Baualtersklasse basierend auf Jahr rechtskräftig/genehmigt</td>
+    <td>Siedlungsblock, Strassenabschnitt</td>
    </tr>
    <tr>
     <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
     <td>
-      <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)</li>
       <li>Referenzwerte spezifischer Nutzenergiebedarf</li>
     </td>
      <td>-</td>
    </tr>
 </table>
-</body>
-
 
 
 
