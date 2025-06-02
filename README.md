@@ -7,8 +7,13 @@
     <th>Thema/Information</th>
   </tr>
   <tr>
-    <td>x</td>
-    <td>x</td>
+    <td>Bundesamt für Kartographie und Geodäsie</td>
+    <td>
+    - ALKIS-Dachformen
+      - ALKIS Gebäudefunktion
+- ALKIS-Strassenfunktion
+- ALKIS-Widmung-Strasse
+    </td>
    </tr>
   <tr>
     <td>x</td>
@@ -16,11 +21,8 @@
    </tr>
 </table>
 
-<b> Ausgangsdaten: Bundesamt für Kartographie und Geodäsie:</b> 
-- ALKIS-Dachformen
-- ALKIS Gebäudefunktion
-- ALKIS-Strassenfunktion
-- ALKIS-Widmung-Strasse
+<b> Ausgangsdaten: :</b> 
+
 <b> Ausgangsdaten: Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</b> 
 - ALKIS®-Datensatz Gebäude [AGS24]
 - 3D-Gebäudedaten LoD2 (3D-Modell mit standardisierten Dachformen)
