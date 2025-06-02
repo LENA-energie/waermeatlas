@@ -2,21 +2,26 @@
 - Veröffentlichung: https://kwp-st.de/kvwmap/index.php
 
 Datenbasis:
-- Geobasisdaten - ALKIS®-Datensatz Gebäude [AGS24]
-- Geobasisdaten - ALKIS Gebäudefunktion
-- Geobasisdaten - LoD2 (3D-Modell mit standardisierten Dachformen)
-- Geobasisdaten - ALKIS-Dachformen
-- Geobasisdaten - LoD1 (Klötzchen- bzw. Blockmodell)
-- Geofachdaten - Bebauungsplan, genehmigt/rechtskräftig
-- Geofachdaten - Flächennutzungsplan genehmigt/rechtskräftig
-- Fachdaten - Gebäude mit Wohnraum nach Baujahr in Mikrozensus-Klassen (100m Gitter)
-- Fachdaten - Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)
-- Fachdaten - Gebäude mit Wohnraum nach Energieträger der Heizung (100m Gitter)
-- Fachdaten - Gebäude mit Wohnraum nach überwiegender Heizungsart (100m Gitter)
-- Fachdaten - Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)
-- Fachdaten - Referenzwerte spezifischer Nutzenergiebedarf
-- Geobasisdaten - Siedlungsblock
-- Kennwerte - mapping_gebaeude_strassenabschnitt
+- ALKIS®-Datensatz Gebäude [AGS24]
+- 3D-Gebäudedaten LoD2 (3D-Modell mit standardisierten Dachformen)
+- 3D-Gebäudedaten LoD1 (Klötzchen- bzw. Blockmodell)
+- ALKIS Gebäudefunktion
+- ALKIS-Dachformen
+- Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)
+- Referenzwerte spezifischer Nutzenergiebedarf
+
+
+- Bebauungsplan, genehmigt/rechtskräftig
+- Flächennutzungsplan genehmigt/rechtskräftig
+
+- Zensus 2022: Gebäude mit Wohnraum nach Baujahr in Mikrozensus-Klassen (100m Gitter)
+- Zensus 2022: Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)
+- Zensus 2022: Gebäude mit Wohnraum nach Energieträger der Heizung (100m Gitter)
+- Zensus 2022: Gebäude mit Wohnraum nach überwiegender Heizungsart (100m Gitter)
+
+- Basis-DLM: Siedlungsblock
+- xx
+- : mapping_gebaeude_strassenabschnitt
 
 Methodik:
 - Energetische Gebäudetypisierung
