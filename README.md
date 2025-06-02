@@ -1,5 +1,5 @@
 # Modellentwicklung nach dem Energiekennzahlenverfahren
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
 <li>Reihenhaus (RH)</li>
@@ -30,7 +30,7 @@
   <tr border-bottom: 1px solid #ddd;>
     <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
     <td>
-      <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)</li>
+      <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD): ref_gebfkt_gebtyp_gemod.csv</li>
     </td>
      <td>-</td>
   </tr>
@@ -74,7 +74,7 @@
 <li>Industrie: DEHst</li>
 <li>Industrie: Wirtschaftszweig von MaStR-Anlagenbetreiber</li>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Baualtersklasse</h2>
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
@@ -109,7 +109,7 @@
 <li>Bauanträge</li>
 <li>ImmobilienScout24</li>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Energiebezugsfläche</h2>
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
@@ -153,7 +153,7 @@
 <h4>Verbesserungspotenzial</h4>
 <li>Gebäudehöhen (DE), URL: https://code-de.org/de/portfolio/?id=733c8c77-a4fc-40fd-9e6a-e226da63ab01</li>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Einstufung von Gebäuden als GEG-relevant</h2>
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
@@ -183,7 +183,7 @@
 <h4>Verbesserungspotenzial</h4>
 <li>Bauland inkl. Art der Nutzung vom LVermGeo</li>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Wärmebedarfsberechnung (gebäudescharf, Siedlungsblock, Straßenabschnitt)</h2>
 <li><b>Nutzenergiebedarf Heizung und Warmwasser [kWh/a] (je Bebäude) = </b> Energiezugsfläche [m²] x Spezifischer Heiz-/Warmwasserbedarf [kWh/(m²a)]</li>
 <li><b>Nutzenergiebedarf Heizung und Warmwasser [MWh/(ha*a)] (je Siedlungsblock) = </b> Summe(Nutzenergiebedarf(Gebäude)) [MWh/a] / Fläche des Siedlungsblocks [ha]</li>
@@ -200,7 +200,7 @@
      <tr>
     <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
     <td>
-      <li>Referenzwerte spezifischer Nutzenergiebedarf</li>
+      <li>Referenzwerte spezifischer Nutzenergiebedarf: ref_gebfkt_nutzenergiebedarf.csv</li>
       <li>Geodatenbank energetisch typisierter Einzelgebäude</li>
       <li>Baualtersklasse</li>
       <li>Energiebezugsfläche</li>
@@ -233,6 +233,6 @@
 <h4>Verbesserungspotenzial</h4>
 <li>Verifizierung der spezifischen Nutzenergiebedarfe, vgl. https://www.ifeu.de/fileadmin/uploads/Publikationen/Energie/ifeu_gef_geomer_Modellbeschreibung_Waermeatlas_Deutschland_3.0_01_2024.pdf</li>
 
-<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Datenvisualisierung</h2>
 <li>https://kwp-st.de/kvwmap/index.php</li>
