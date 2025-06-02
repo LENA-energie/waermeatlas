@@ -15,10 +15,13 @@
   <tr>
     <td>Bundesamt für Kartographie und Geodäsie</td>
     <td>
-    - ALKIS-Dachformen
-      - ALKIS Gebäudefunktion
-- ALKIS-Strassenfunktion
-- ALKIS-Widmung-Strasse
+      <li>ALKIS-Dachformen</li>
+      <li>ALKIS Gebäudefunktion</li>
+      <li>ALKIS-Strassenfunktion</li>
+      <li>ALKIS-Widmung-Strasse</li>
+      <li></li>
+      <li></li>
+      <li></li>
     </td>
    </tr>
   <tr>
