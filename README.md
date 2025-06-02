@@ -4,9 +4,9 @@
 <table>
   <thead>
   <tr>
-    <th>Herausgeber</th>
-    <th>Thema/Information</th>
-    <th>Hinweise auf</th>
+    <th width=30%>Herausgeber</th>
+    <th width=40%>Thema/Information</th>
+    <th width=30%>Hinweise auf</th>
   </tr>    
   </thead>
   <tr>
