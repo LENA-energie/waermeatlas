@@ -58,7 +58,7 @@
    </tr>
 </table>
 <br>
-<br><b>Methodik</b>
+<br><b>METHODIK</b>
 <br>
 <table>
   <thead>
@@ -68,40 +68,42 @@
     <th>Verbesserungspotenzial</th>
   </tr>    
   </thead>
-    <tr>
+  <tr>
     <th>Energetische Gebäudetypisierung</th>
     <th>x</th>
     <th>x</th>
   </tr>  
-    <tr>
+  <tr>
     <th>Baualtersklasse</th>
     <th>x</th>
     <th>x</th>
   </tr>  
-    <tr>
+  <tr>
     <th>Energiebezugsfläche</th>
     <th>x</th>
     <th>x</th>
   </tr>  
-    <tr>
+  <tr>
     <th>Einstufung von Gebäuden als GEG-relevant</th>
     <th>x</th>
     <th>x</th>
   </tr>  
-    <tr>
+  <tr>
     <th>Wärmebedarf Gebäude</th>
     <th>x</th>
     <th>x</th>
   </tr>  
-    <tr>
+  <tr>
     <th>Wärmebedarf Baublock</th>
     <th>x</th>
     <th>x</th>
   </tr>  
-    <tr>
+  <tr>
     <th>Wärmebedarf Straßenabschnitt</th>
     <th>mapping_gebaeude_strassenabschnitt</th>
     <th>x</th>
-  </tr> </table>
-  <br>
-<br><b>DATENVISUALISIERUNG</b> https://kwp-st.de/kvwmap/index.php
+  </tr> 
+</table>
+<br>
+<br><b>DATENVISUALISIERUNG</b> 
+<br>https://kwp-st.de/kvwmap/index.php
