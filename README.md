@@ -13,8 +13,124 @@
   <tbody>
   <tr>
     <td>Gebäude-ID</td>
-    <td>x</td>
+    <td>gid</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>gml_id</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>waerme_kwh</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>sektor</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>g_gemod</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>g_gemod_tx</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>code_g</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>code_g_txt</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>code_f</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>code_f_txt</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>gflache_m2</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>eflache_m2</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>geb_hoehe</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>g_hoehe_2</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>g_hoehe_1</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>g_volumen</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>gsshoehe</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>anz_og</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>fk_dg_ausb</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>fk_wg_nwg</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>beheizt</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+
+  <tr>
+    <td>rellage</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>dachform</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>geb_typ_z</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td>Geometriepunkt</td>
@@ -23,6 +139,8 @@
   </tr>
   </tbody>
 </table>
+  geb_typ_p, bak_ezfh, bak_mfh, bak_nwg, bak_z, bak_z_p, gmdschl, strssname, gid_tn, gid_str, objid_str, gitter_id, gid_bp, gid_fnp, the_geom
+  
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
@@ -37,7 +155,7 @@
 <li>Gebäude für Kultur und Freizeit</li>
 <li>Sportgebäude</li>
 <li>Beherbergungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude</li>
-<li>Produktions-, Werkstatt-, Lager- oder Betriebsgebäude (Im Modell aufgeteilt in GHD & Industrie)</li>
+<li>Produktions-, Werkstatt-, Lager- oder Betriebsgebäude (Im Modell kann hier noch aufgeteilt werden in GHD & Industrie)</li>
 <li>Handelsgebäude</li>
 <li>Technikgebäude (Ver- und Entsorgung)</li>
 <li>Verkehrsgebäude</li>
