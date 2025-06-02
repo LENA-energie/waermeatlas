@@ -75,7 +75,6 @@
 
 
 <h2>Baualtersklasse</h2>
-
 <table>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
@@ -104,7 +103,49 @@
   </tbody>
 </table>
 
+<h3>Verbesserungspotenzial</h3>
+<li>Zensusdaten je Siedlungsblock</li>
+<li>Bauanträge</li>
+<li>ImmobilienScout24</li>
+
+
 <h2>Energiebezugsfläche</h2>
+<table>
+  <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
+  <thead>
+  <tr>
+    <th width=20%>Herausgeber</th>
+    <th width=50%>Thema/Information</th>
+    <th width=30%>Hinweise auf</th>
+  </tr>    
+  </thead>
+  <tr>
+    <td>Bundesamt für Kartographie und Geodäsie</td>
+    <td>
+      <li>ALKIS-Dachformen</li>
+    </td>
+    <td>Katalogwerte</td>
+   </tr>
+  <tr>
+    <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
+    <td>
+      <li>ALKIS®-Datensatz Gebäude [AGS24]</li>
+      <li>3D-Gebäudedaten LoD2 (3D-Modell mit standardisierten Dachformen)</li>
+      <li>3D-Gebäudedaten LoD1 (Klötzchen- bzw. Blockmodell)</li>
+    </td>
+    <td>Gebäudepolygon, Gebäudegrundfläche, Dachform, Gebäudehöhe</td>
+   </tr>
+   <tr>
+    <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
+    <td>
+      <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)</li>
+    </td>
+     <td>-</td>
+   </tr>
+</table>
+
+
+
 <h2>Einstufung von Gebäuden als GEG-relevant</h2>
 <h2>Wärmebedarfsberechnung</h2>
 
