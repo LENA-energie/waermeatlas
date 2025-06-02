@@ -17,7 +17,7 @@
       <li>ALKIS-Strassenfunktion</li>
       <li>ALKIS-Widmung-Strasse</li>
     </td>
-    <td>-</td>
+    <td>Katalogwerte</td>
    </tr>
   <tr>
     <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
@@ -28,7 +28,7 @@
       <li>Basis-DLM: Siedlung: Wohnbaufläche, etc. --> Siedlungsblock</li>
       <li>Basis-DLM: Verkehr: Straßenachse, Fahrbahnachse</li>
     </td>
-    <td>-</td>
+    <td>Gebäudepolygon, Gebäudegrundfläche, Gebäudefunktion, Dachform, Gebäudehöhe, tatsächliche Nutzung der Fläche</td>
    </tr>
    <tr>
     <td>Statistische Ämter des Bundes und der Länder (Zensus 2022)</td>
@@ -38,7 +38,7 @@
       <li>Gebäude mit Wohnraum nach Energieträger der Heizung (100m Gitter)</li>
       <li>Gebäude mit Wohnraum nach überwiegender Heizungsart (100m Gitter)</li>
     </td>
-     <td>-</td>
+     <td>Wohngebäude, Gebäudetyp, Baualtersklasse</td>
    </tr>
    <tr>
     <td>Ministerium für Infrastruktur und Digitales Sachsen-Anhalt (MID)</td>
@@ -46,7 +46,7 @@
       <li>Bebauungsplan, genehmigt/rechtskräftig</li>
       <li>Flächennutzungsplan genehmigt/rechtskräftig</li>
     </td>
-     <td>-</td>
+     <td>Jahr rechtskräftig/genehmigt</td>
    </tr>
    <tr>
     <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
