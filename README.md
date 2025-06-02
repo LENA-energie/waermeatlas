@@ -3,6 +3,46 @@
 <h2>Modellentwicklung</h2>
 
 <h3>Geodatenbank energetisch typisierter Einzelgebäude</h3>
+<br>
+<table>
+  <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
+  <thead>
+  <tr>
+    <th width=20%>Herausgeber</th>
+    <th width=50%>Thema/Information</th>
+    <th width=30%>Hinweise auf</th>
+  </tr>    
+  </thead>
+  <tr>
+    <td>Bundesamt für Kartographie und Geodäsie</td>
+    <td>
+      <li>ALKIS Gebäudefunktion</li>
+    </td>
+    <td>Katalogwerte</td>
+   </tr>
+  <tr>
+    <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
+    <td>
+      <li>ALKIS®-Datensatz Gebäude [AGS24]</li>
+    </td>
+    <td>Gebäudefunktion</td>
+   </tr>
+   <tr>
+    <td>Statistische Ämter des Bundes und der Länder (Zensus 2022)</td>
+    <td>
+      <li>Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)</li>
+    </td>
+     <td>Wohngebäude, Gebäudetyp</td>
+   </tr>
+   <tr>
+    <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
+    <td>
+      <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)</li>
+    </td>
+     <td>-</td>
+   </tr>
+</table>
+
 <h3>Baualtersklasse</h3>
 <h3>Energiebezugsfläche</h3>
 <h3>Einstufung von Gebäuden als GEG-relevant</h3>
