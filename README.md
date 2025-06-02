@@ -2,7 +2,10 @@
 - Veröffentlichung: https://kwp-st.de/kvwmap/index.php
 
 Datenbasis:
-- ALKIS®-Datensatz Gebäude [AGS24]
+- <b> Bundesamt für Kartographie und Geodäsie:</b> 
+- 
+
+ALKIS®-Datensatz Gebäude [AGS24]
 - 3D-Gebäudedaten LoD2 (3D-Modell mit standardisierten Dachformen)
 - 3D-Gebäudedaten LoD1 (Klötzchen- bzw. Blockmodell)
 - ALKIS-Dachformen
