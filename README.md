@@ -42,7 +42,8 @@
      <td>-</td>
    </tr>
 </table>
-Quellen:
+
+<h4>Quellenangaben</h4>
 <li>Langreder, Nora; Lettow, Frederik; Sahnoun, Malek; Kreidelmeyer, Sven; Wünsch, Aurel; Lengning, Saskia et al. (2024): Technikkatalog Wärmeplanung. Hg. v. ifeu – Institut für Energie- und Umweltforschung Heidelberg, Öko-Institut e.V., IER Stuttgart, adelphi consult GmbH, Becker Büttner Held PartGmbB, Prognos AG, et al. Online verfügbar unter https://www.kww-halle.de/praxis-kommunale-waermewende/bundesgesetz-zur-waermeplanung#c636, zuletzt geprüft am 02.05.2025.</li>
 <li>Hörner, Michael; Bischof, Julian. Typologie der Nichtwohngebäude in Deutschland. Institut Wohnen und Umwelt (IWU). Darmstadt, 2022. DOI: 10.13140/RG.2.2.31628.80008, URL: https://github.com/IWUGERMANY/Nichtwohngebaeude-Typologie-Deutschland/tree/main</li>
 <li>VDI 3807 Blatt 2 Verbrauchskennwerte für Gebäude – Verbrauchskennwerte für Heizenergie, Strom und Wasser. Berlin: Beuth Verlag, November 2014</li>
