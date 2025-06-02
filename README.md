@@ -1,4 +1,4 @@
-# Modellentwicklung
+# Modellentwicklung nach dem Energiekennzahlenverfahren
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
@@ -207,14 +207,6 @@
     </td>
      <td>-</td>
    </tr>
-   <tr>
-    <td>Bundesamt für Kartographie und Geodäsie</td>
-    <td>
-      <li>ALKIS-Strassenfunktion</li>
-      <li>ALKIS-Widmung-Strasse</li>
-    </td>
-    <td>Bezeicnungen zu Straßenfunktion und Straßenwidmung</td>
-   </tr>
   <tr>
     <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
     <td>
@@ -222,6 +214,14 @@
       <li>Basis-DLM: Verkehr: Straßenachse, Fahrbahnachse</li>
     </td>
     <td>Siedlungsblock, Strassenabschnitt</td>
+   </tr>
+  <tr>
+    <td>Bundesamt für Kartographie und Geodäsie</td>
+    <td>
+      <li>ALKIS-Strassenfunktion</li>
+      <li>ALKIS-Widmung-Strasse</li>
+    </td>
+    <td>Bezeichnungen zu Straßenfunktion und Straßenwidmung</td>
    </tr>
 </table>
 
