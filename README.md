@@ -1,7 +1,7 @@
 # Modellentwicklung nach dem Energiekennzahlenverfahren
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Übersicht Datenpunkte Wärmeatlas Sachsen-Anhalt</h2>
-<table>
+<table width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
@@ -101,7 +101,7 @@
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>+ Baualtersklasse</h2>
-<table>
+<table width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
@@ -136,7 +136,7 @@
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>+ Energiebezugsfläche</h2>
-<table>
+<table width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
@@ -180,7 +180,7 @@
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>+ Einstufung von Gebäuden als GEG-relevant</h2>
-<table>
+<table width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
@@ -216,7 +216,7 @@
 <li>Berechnung der nächstgelegenen Straße je Gebäude</li>
 <li><b>Nutzenergiebedarf Heizung und Warmwasser [MWh/(m*a)] (je Straßenabschnitt) = </b> Summe(Nutzenergiebedarf(Gebäude))[MWh/a] / Länge des Straßenabschnitts [m]</li>
 <br>
-<table>
+<table width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
