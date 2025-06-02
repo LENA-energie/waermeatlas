@@ -2,16 +2,17 @@
 - Veröffentlichung: https://kwp-st.de/kvwmap/index.php
 
 Datenbasis:
-- <b> Bundesamt für Kartographie und Geodäsie:</b> 
-- 
-
-ALKIS®-Datensatz Gebäude [AGS24]
-- 3D-Gebäudedaten LoD2 (3D-Modell mit standardisierten Dachformen)
-- 3D-Gebäudedaten LoD1 (Klötzchen- bzw. Blockmodell)
+<b> Bundesamt für Kartographie und Geodäsie:</b> 
 - ALKIS-Dachformen
 - ALKIS Gebäudefunktion
 - ALKIS-Strassenfunktion
 - ALKIS-Widmung-Strasse
+
+<b> Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</b> 
+
+- ALKIS®-Datensatz Gebäude [AGS24]
+- 3D-Gebäudedaten LoD2 (3D-Modell mit standardisierten Dachformen)
+- 3D-Gebäudedaten LoD1 (Klötzchen- bzw. Blockmodell)
 - Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)
 - Referenzwerte spezifischer Nutzenergiebedarf
 - Bebauungsplan, genehmigt/rechtskräftig
