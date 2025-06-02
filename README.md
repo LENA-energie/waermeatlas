@@ -5,7 +5,8 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
 
-<h2><i class="material-icons">cloud</i>Geodatenbank energetisch typisierter Einzelgebäude</h2>
+<i class="material-icons">cloud</i>
+<h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
 <li>Reihenhaus (RH)</li>
 <li>Mehrfamilienhaus (MFH)</li>
