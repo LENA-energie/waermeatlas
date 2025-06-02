@@ -1,3 +1,7 @@
+#table-4 thead tr {
+   background-color: grey;
+}
+
 # Modellentwicklung
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
@@ -17,7 +21,7 @@
 <li>Verkehrsgebäude</li>
 <br>
 
-<table>
+<table id='table-4'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
