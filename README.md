@@ -23,9 +23,9 @@
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
-    <th width=20% scope="col">Herausgeber</th>
-    <th width=50% scope="col">Thema/Information</th>
-    <th width=30% scope="col">Hinweise auf</th>
+    <th width=20% id="r1">Herausgeber</th>
+    <th width=50% id="r1">Thema/Information</th>
+    <th width=30% id="r1">Hinweise auf</th>
   </tr>    
   </thead>
   <tbody>
