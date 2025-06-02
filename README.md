@@ -72,7 +72,7 @@
 <li>Bauland-Datensatz vom LVermGeo mit Bauweise (offen/geschlossen)</li>
 <li>ImmobilienScout24</li>
 
-
+<-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2>Baualtersklasse</h2>
 <table>
