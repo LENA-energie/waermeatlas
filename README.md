@@ -46,7 +46,7 @@
       <li>Bebauungsplan, genehmigt/rechtskräftig</li>
       <li>Flächennutzungsplan genehmigt/rechtskräftig</li>
     </td>
-     <td>Baualtersklasse basieren dauf Jahr rechtskräftig/genehmigt</td>
+     <td>Baualtersklasse basierend auf Jahr rechtskräftig/genehmigt</td>
    </tr>
    <tr>
     <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
@@ -64,29 +64,29 @@
   <thead>
   <tr>
     <th width=20%>Thema/Information</th>
-    <th width=50%>Methodik</th>
+    <th width=50%>Basis</th>
     <th width=30%>Verbesserungspotenzial</th>
   </tr>    
   </thead>
   <tr>
     <th>Energetische Gebäudetypisierung</th>
-    <th>x</th>
-    <th>x</th>
+    <th>ALKIS-Gebäudefunktion, Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)</th>
+    <th>OpenStreetMap für Bauweise; Zensusdaten je Siedlungsblock; Bauland-Datensatz vom LVermGeo mit Bauweise (offen/geschlossen), Geschosszahl</th>
   </tr>  
   <tr>
     <th>Baualtersklasse</th>
-    <th>x</th>
-    <th>x</th>
+    <th>Bebauungsplan, genehmigt/rechtskräftig; Flächennutzungsplan genehmigt/rechtskräftig; Gebäude mit Wohnraum nach Baujahr in Mikrozensus-Klassen (100m Gitter)</th>
+    <th>Zensusdaten je Siedlungsblock, Bauantrag, ImmobilienScout24</th>
   </tr>  
   <tr>
     <th>Energiebezugsfläche</th>
-    <th>x</th>
+    <th>Gebäudepolygon, Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD) mit Flächenkorrektur von VDI 3807 Blatt 2 und Annahmen zu Geschosshöhe und Dachgeschossausbau; 3D-Gebäudedaten mit Gebäudehöhe (teils Imputation)</th>
     <th>x</th>
   </tr>  
   <tr>
     <th>Einstufung von Gebäuden als GEG-relevant</th>
-    <th>x</th>
-    <th>x</th>
+    <th>Basis-DLM: Siedlung: Wohnbaufläche, etc.</th>
+    <th>Bauland-Datensatz vom LVermGeo mit Art der Nutzung; BImSc; Wirtschaftszweig von MaStR-Anlagenbetreiber</th>
   </tr>  
   <tr>
     <th>Wärmebedarf Gebäude</th>
