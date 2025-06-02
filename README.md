@@ -1,5 +1,6 @@
 # waermeatlas
-<br><b>DATENBASIS</b>
+<br>
+<h2>DATENBASIS</h2>
 <br>
 <table>
   <thead>
