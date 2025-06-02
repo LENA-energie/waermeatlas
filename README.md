@@ -1,6 +1,4 @@
-#table-4 thead tr {
-   background-color: grey;
-}
+#table-4 #r1 { background-color: grey;}
 
 # Modellentwicklung
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
