@@ -1,21 +1,18 @@
 # waermeatlas
 - Veröffentlichung: https://kwp-st.de/kvwmap/index.php
-
+- <b>Ausgangsdaten</b>
 <table>
   <tr>
-    <th>Berlin</th>
-    <th>Hamburg</th>
-    <th>München</th>
+    <th>Herausgeber</th>
+    <th>Thema/Information</th>
   </tr>
   <tr>
-    <td>Miljöh</td>
-    <td>Kiez</td>
-    <td>Bierdampf</td>
+    <td>x</td>
+    <td>x</td>
    </tr>
-   <tr>
-     <td>Buletten</td>
-     <td>Frikadellen</td>
-     <td>Fleischpflanzerl</td>
+  <tr>
+    <td>x</td>
+    <td>x</td>
    </tr>
 </table>
 
