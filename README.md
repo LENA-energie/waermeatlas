@@ -1,42 +1,11 @@
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
-
-<h2>Collapsed Borders</h2>
-<p>If you want the borders to collapse into one border, add the CSS border-collapse property.</p>
-
-<table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
-  </tr>
-</table>
-
-</body>
-</html>
-
-
 # Modellentwicklung
-<h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
+<head>
+<title>Google Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+
+<h2><i class="material-icons">cloud</i>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
 <li>Reihenhaus (RH)</li>
 <li>Mehrfamilienhaus (MFH)</li>
@@ -52,8 +21,8 @@ table, th, td {
 <li>Handelsgebäude</li>
 <li>Technikgebäude (Ver- und Entsorgung)</li>
 <li>Verkehrsgebäude</li>
-<br>
 
+<br>
 <table width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
