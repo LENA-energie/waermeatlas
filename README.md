@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
-
+<body>
 <i class="material-icons">cloud</i>
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
@@ -214,7 +214,7 @@
      <td>-</td>
    </tr>
 </table>
-
+</body>
 
 
 
