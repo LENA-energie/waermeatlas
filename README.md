@@ -1,5 +1,3 @@
-#table-4 #r1 { background-color: grey;}
-
 # Modellentwicklung
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
@@ -19,13 +17,13 @@
 <li>Verkehrsgebäude</li>
 <br>
 
-<table border='0' width='100%' id='table-4'>
+<table border='0' width='100%'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr border-bottom: 1px solid #ddd;>
-    <th width=20% id="r1">Herausgeber</th>
-    <th width=50% id="r1">Thema/Information</th>
-    <th width=30% id="r1">Hinweise auf</th>
+    <th width=20%; background-color: grey;>Herausgeber</th>
+    <th width=50%; background-color: grey;>Thema/Information</th>
+    <th width=30%; background-color: grey;>Hinweise auf</th>
   </tr>    
   </thead>
   <tbody>
