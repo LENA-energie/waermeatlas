@@ -20,7 +20,7 @@
 <br>
 
 <table>
-  <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
+  <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
   <tr>
     <th width=20%>Herausgeber</th>
@@ -75,6 +75,35 @@
 
 
 <h2>Baualtersklasse</h2>
+
+<table>
+  <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
+  <thead>
+  <tr>
+    <th width=20%>Herausgeber</th>
+    <th width=50%>Thema/Information</th>
+    <th width=30%>Hinweise auf</th>
+  </tr>    
+  </thead>
+  <tbody>
+  <tr>
+    <td>Ministerium für Infrastruktur und Digitales Sachsen-Anhalt (MID)</td>
+    <td>
+      <li>Bebauungsplan, genehmigt/rechtskräftig</li>
+      <li>Flächennutzungsplan genehmigt/rechtskräftig</li>
+    </td>
+     <td>Baualtersklasse basierend auf Jahr rechtskräftig/genehmigt</td>
+  </tr>
+  <tr>
+    <td>Statistische Ämter des Bundes und der Länder (Zensus 2022)</td>
+    <td>
+      <li>Gebäude mit Wohnraum nach Baujahr in Mikrozensus-Klassen (100m Gitter)</li>
+    </td>
+    <td>Baualtersklasse für Wohngebäude</td>
+   </tr>
+  </tbody>
+</table>
+
 <h2>Energiebezugsfläche</h2>
 <h2>Einstufung von Gebäuden als GEG-relevant</h2>
 <h2>Wärmebedarfsberechnung</h2>
