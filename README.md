@@ -22,21 +22,21 @@
 <table border='0' width='100%' id='table-4'>
   <caption>Geodatengrundlage für das Bundesland Sachsen-Anhalt</caption>
   <thead>
-  <tr>
+  <tr border-bottom: 1px solid #ddd;>
     <th width=20% id="r1">Herausgeber</th>
     <th width=50% id="r1">Thema/Information</th>
     <th width=30% id="r1">Hinweise auf</th>
   </tr>    
   </thead>
   <tbody>
-  <tr>
+  <tr border-bottom: 1px solid #ddd;>
     <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
     <td>
       <li>Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)</li>
     </td>
      <td>-</td>
   </tr>
-  <tr>
+  <tr border-bottom: 1px solid #ddd;>
     <td>Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</td>
     <td>
       <li>ALKIS®-Datensatz Gebäude [AGS24]</li>
