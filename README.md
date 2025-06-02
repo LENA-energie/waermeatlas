@@ -3,8 +3,12 @@
 <h2>Modellentwicklung</h2>
 
 <h3>Geodatenbank energetisch typisierter Einzelgebäude</h3>
+<h3>Baualtersklasse</h3>
 <h3>Energiebezugsfläche</h3>
+<h3>Einstufung von Gebäuden als GEG-relevant</h3>
 <h3>Wärmebedarfsberechnung</h3>
+
+
 
 <br>
 <table>
