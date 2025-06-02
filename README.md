@@ -1,5 +1,5 @@
 # Modellentwicklung nach dem Energiekennzahlenverfahren
-<br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
 <li>Reihenhaus (RH)</li>
@@ -184,8 +184,8 @@
 <li>Bauland inkl. Art der Nutzung vom LVermGeo</li>
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
-<h2>Wärmebedarfsberechnung (gebäudescharf, Siedlungsblock, Straßenabschnitt)</h2>
-<li><b>Nutzenergiebedarf Heizung und Warmwasser [kWh/a] (je Bebäude) = </b> Energiezugsfläche [m²] x Spezifischer Heiz-/Warmwasserbedarf [kWh/(m²a)]</li>
+<h2>Wärmebedarfsberechnung</h2>
+<li><b>Nutzenergiebedarf Heizung und Warmwasser [kWh/a] (je Gebäude) = </b> Energiezugsfläche [m²] x Spezifischer Heiz-/Warmwasserbedarf [kWh/(m²a)]</li>
 <li><b>Nutzenergiebedarf Heizung und Warmwasser [MWh/(ha*a)] (je Siedlungsblock) = </b> Summe(Nutzenergiebedarf(Gebäude)) [MWh/a] / Fläche des Siedlungsblocks [ha]</li>
 <li><b>Nutzenergiebedarf Heizung und Warmwasser [MWh/(m*a)] (je Straßenabschnitt) = </b> Summe(Nutzenergiebedarf(Gebäude))[MWh/a] / Länge des Straßenabschnitts [m]</li>
 <table>
