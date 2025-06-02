@@ -65,9 +65,9 @@
 <table>
   <thead>
   <tr>
-    <th width=20%>Thema/Information</th>
-    <th width=50%>Basis</th>
-    <th width=30%>Verbesserungspotenzial</th>
+    <th width=20% align=left>Thema/Information</th>
+    <th width=50% align=left>Basis</th>
+    <th width=30% align=left>Verbesserungspotenzial</th>
   </tr>    
   </thead>
   <tr>
