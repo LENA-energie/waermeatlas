@@ -1,9 +1,7 @@
 # waermeatlas
 <br>
-<h2>Modellentwicklung</h2>
-
-<h3>Geodatenbank energetisch typisierter Einzelgebäude</h3>
-<br>
+<h1>Modellentwicklung</h1>
+<h2>Geodatenbank energetisch typisierter Einzelgebäude</h2>
 <li>Ein- und Zweifamilienhaus (EFH)</li>
 <li>Reihenhaus (RH)</li>
 <li>Mehrfamilienhaus (MFH)</li>
@@ -19,6 +17,8 @@
 <li>Handelsgebäude</li>
 <li>Technikgebäude (Ver- und Entsorgung)</li>
 <li>Verkehrsgebäude</li>
+<br>
+
 <table>
   <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
   <thead>
@@ -55,17 +55,18 @@
     <td>
       <li>Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)</li>
     </td>
-     <td>Wohngebäude, Gebäudetyp</td>
+     <td>Gebäudetyp für Wohngebäude (EFH, RH, MFH, GMH)</td>
    </tr>
   </tbody>
 </table>
 
-<h4>Quellenangaben</h4>
+<h3>Quellenangaben</h3>
 <li>Langreder, Nora; Lettow, Frederik; Sahnoun, Malek; Kreidelmeyer, Sven; Wünsch, Aurel; Lengning, Saskia et al. (2024): Technikkatalog Wärmeplanung. Hg. v. ifeu – Institut für Energie- und Umweltforschung Heidelberg, Öko-Institut e.V., IER Stuttgart, adelphi consult GmbH, Becker Büttner Held PartGmbB, Prognos AG, et al. Online verfügbar unter https://www.kww-halle.de/praxis-kommunale-waermewende/bundesgesetz-zur-waermeplanung#c636, zuletzt geprüft am 02.05.2025.</li>
 <li>Hörner, Michael; Bischof, Julian. Typologie der Nichtwohngebäude in Deutschland. Institut Wohnen und Umwelt (IWU). Darmstadt, 2022. DOI: 10.13140/RG.2.2.31628.80008, URL: https://github.com/IWUGERMANY/Nichtwohngebaeude-Typologie-Deutschland/tree/main</li>
 <li>VDI 3807 Blatt 2 Verbrauchskennwerte für Gebäude – Verbrauchskennwerte für Heizenergie, Strom und Wasser. Berlin: Beuth Verlag, November 2014</li>
 <li>Institut Wohnen und Umwelt GmbH. Deutsche Wohngebäudetypologie Beispielhafte Maßnahmen zur Verbesserung der Energieeffizienz von typischen Wohngebäuden, Darmstadt 2015, online verfügbar: https://www.iwu.de/fileadmin/publikationen/gebaeudebestand/episcope/2015_IWU_LogaEtAl_Deutsche-Wohngeb%C3%A4udetypologie.pdf</li>
 
+<h3>Verbesserungspotenzial</h3>
 <h3>Baualtersklasse</h3>
 <h3>Energiebezugsfläche</h3>
 <h3>Einstufung von Gebäuden als GEG-relevant</h3>
