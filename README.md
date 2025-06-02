@@ -46,7 +46,7 @@
       <li>Bebauungsplan, genehmigt/rechtskräftig</li>
       <li>Flächennutzungsplan genehmigt/rechtskräftig</li>
     </td>
-     <td>Jahr rechtskräftig/genehmigt</td>
+     <td>Baualtersklasse basieren dauf Jahr rechtskräftig/genehmigt</td>
    </tr>
    <tr>
     <td>Landesenergieagentur Sachsen-Anhalt GmbH</td>
