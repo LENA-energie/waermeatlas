@@ -1,6 +1,7 @@
 # waermeatlas
 <br>
-<h3>Modellentwicklung</h3>
+<h2>Modellentwicklung</h2>
+
 <br>
 <table>
   <caption>Geodatengrundlage & -aufbereitung für das Bundesland Sachsen-Anhalt</caption>
