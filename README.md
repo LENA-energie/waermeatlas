@@ -59,6 +59,44 @@
      <td>-</td>
    </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
 <br><b>MODELLENTWICKLUNG</b>
 <br>
@@ -71,19 +109,23 @@
   </tr>    
   </thead>
   <tr>
-    <th><b>Energetische Gebäudetypisierung</b>: Ein- und Zweifamilienhaus (EFH), Reihenhaus (RH), Mehrfamilienhaus (MFH), Großes Mehrfamilienhaus (GMH), Büro-, Verwaltungs- oder Amtsgebäude, Gebäude für Forschung und Hochschullehre, Gebäude für Gesundheit und Pflege
-Schule, Kindertagesstätte und sonstige Betreuungsgebäude
-154.230 266.561.645
-Gebäude für Kultur und Freizeit 141.211 118.654.322
-Sportgebäude 78.118 107.346.028
-Beherbergungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude
-270.403 213.360.502
-Produktions-, Werkstatt-, Lager- oder Betriebsgebäude
-(Im Modell aufgeteilt in GHD & Industrie)
-974.448 1.354.234.922
-Handelsgebäude 187.277 407.028.666
-Technikgebäude (Ver- und Entsorgung) 67.860 25.297.594
-Verkehrsgebäude </th>
+    <th><b>Energetische Gebäudetypisierung</b>: 
+      <li>Ein- und Zweifamilienhaus (EFH)</li>
+      <li>Reihenhaus (RH)</li>
+      <li>Mehrfamilienhaus (MFH)</li>
+      <li>Großes Mehrfamilienhaus (GMH)</li>
+      <li>Büro-, Verwaltungs- oder Amtsgebäude</li>
+      <li>Gebäude für Forschung und Hochschullehre</li>
+      <li>Gebäude für Gesundheit und Pflege</li>
+      <li>Schule, Kindertagesstätte und sonstige Betreuungsgebäude</li>
+      <li>Gebäude für Kultur und Freizeit</li>
+      <li>Sportgebäude</li>
+      <li>Beherbergungs- oder Unterbringungsgebäude, Gastronomie- oder Verpflegungsgebäude</li>
+      <li>Produktions-, Werkstatt-, Lager- oder Betriebsgebäude (Im Modell aufgeteilt in GHD & Industrie)</li>
+      <li>Handelsgebäude</li>
+      <li>Technikgebäude (Ver- und Entsorgung)</li>
+      <li>Verkehrsgebäude</li>
+    </th>
     <th>ALKIS-Gebäudefunktion, Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)</th>
     <th>OpenStreetMap für Bauweise; Zensusdaten je Siedlungsblock; Bauland-Datensatz vom LVermGeo mit Bauweise (offen/geschlossen), Geschosszahl</th>
   </tr>  
