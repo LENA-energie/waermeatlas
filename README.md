@@ -2,6 +2,12 @@
 - Veröffentlichung: https://kwp-st.de/kvwmap/index.php
 - <b>Ausgangsdaten</b>
 <table>
+  <thead>
+  <tr>
+    <th>Herausgeber</th>
+    <th>Thema/Information</th>
+  </tr>    
+  </thead>
   <tr>
     <th>Herausgeber</th>
     <th>Thema/Information</th>
