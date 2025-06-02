@@ -1,18 +1,19 @@
 # waermeatlas
 - Veröffentlichung: https://kwp-st.de/kvwmap/index.php
 
-Datenbasis:
-<b> Bundesamt für Kartographie und Geodäsie:</b> 
+<b> Ausgangsdaten: Bundesamt für Kartographie und Geodäsie:</b> 
 - ALKIS-Dachformen
 - ALKIS Gebäudefunktion
 - ALKIS-Strassenfunktion
 - ALKIS-Widmung-Strasse
 
-<b> Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</b> 
-
+<b> Ausgangsdaten: Landesamt für Vermessung und Geoinformation Sachsen-Anhalt (LVermGeo)</b> 
 - ALKIS®-Datensatz Gebäude [AGS24]
 - 3D-Gebäudedaten LoD2 (3D-Modell mit standardisierten Dachformen)
 - 3D-Gebäudedaten LoD1 (Klötzchen- bzw. Blockmodell)
+- Basis-DLM: Siedlung: Wohnbaufläche, etc. --> Siedlungsblock
+- Basis-DLM: Verkehr: Straßenachse, Fahrbahnachse
+
 - Referenzwerte Gebäudefunktion zu Gebäudemodell (GEMOD)
 - Referenzwerte spezifischer Nutzenergiebedarf
 - Bebauungsplan, genehmigt/rechtskräftig
@@ -21,9 +22,7 @@ Datenbasis:
 - Zensus 2022: Gebäude mit Wohnraum nach Gebäudetyp (Größe) (100m Gitter)
 - Zensus 2022: Gebäude mit Wohnraum nach Energieträger der Heizung (100m Gitter)
 - Zensus 2022: Gebäude mit Wohnraum nach überwiegender Heizungsart (100m Gitter)
-- Basis-DLM: Siedlungsblock
 - xx: mapping_gebaeude_strassenabschnitt
-- Verkehr: Straßenachse, Fahrbahnachse
   
 Methodik:
 - Energetische Gebäudetypisierung
