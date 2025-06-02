@@ -62,12 +62,17 @@
 <li>Langreder, Nora; Lettow, Frederik; Sahnoun, Malek; Kreidelmeyer, Sven; Wünsch, Aurel; Lengning, Saskia et al. (2024): Technikkatalog Wärmeplanung. Hg. v. ifeu – Institut für Energie- und Umweltforschung Heidelberg, Öko-Institut e.V., IER Stuttgart, adelphi consult GmbH, Becker Büttner Held PartGmbB, Prognos AG, et al. Online verfügbar unter https://www.kww-halle.de/praxis-kommunale-waermewende/bundesgesetz-zur-waermeplanung#c636, zuletzt geprüft am 02.05.2025.</li>
 <li>Hörner, Michael; Bischof, Julian. Typologie der Nichtwohngebäude in Deutschland. Institut Wohnen und Umwelt (IWU). Darmstadt, 2022. DOI: 10.13140/RG.2.2.31628.80008, URL: https://github.com/IWUGERMANY/Nichtwohngebaeude-Typologie-Deutschland/tree/main</li>
 <li>Institut Wohnen und Umwelt GmbH. Deutsche Wohngebäudetypologie Beispielhafte Maßnahmen zur Verbesserung der Energieeffizienz von typischen Wohngebäuden, Darmstadt 2015, online verfügbar: https://www.iwu.de/fileadmin/publikationen/gebaeudebestand/episcope/2015_IWU_LogaEtAl_Deutsche-Wohngeb%C3%A4udetypologie.pdf</li>
+<li>VDI 3807 Blatt 2 Verbrauchskennwerte für Gebäude – Verbrauchskennwerte für Heizenergie, Strom und Wasser. Berlin: Beuth Verlag, November 2014</li>
 
 <h4>Verbesserungspotenzial</h4>
 <li>OpenStreetMap für Bauweise gebäudescharf</li>
 <li>Zensusdaten je Siedlungsblock</li>
 <li>Bauland-Datensatz vom LVermGeo mit Bauweise (offen/geschlossen)</li>
 <li>ImmobilienScout24</li>
+<li>Industrie & Bauland: Bauland-Datensatz vom LVermGeo mit Art der Nutzung</li>
+<li>Industrie: BImSchG</li>
+<li>Industrie: DEHst</li>
+<li>Industrie: Wirtschaftszweig von MaStR-Anlagenbetreiber</li>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Baualtersklasse</h2>
@@ -214,6 +219,11 @@
    </tr>
 </table>
 
+<h4>Quellenangaben</h4>
+<li>Langreder, Nora; Lettow, Frederik; Sahnoun, Malek; Kreidelmeyer, Sven; Wünsch, Aurel; Lengning, Saskia et al. (2024): Technikkatalog Wärmeplanung. Hg. v. ifeu – Institut für Energie- und Umweltforschung Heidelberg, Öko-Institut e.V., IER Stuttgart, adelphi consult GmbH, Becker Büttner Held PartGmbB, Prognos AG, et al. Online verfügbar unter https://www.kww-halle.de/praxis-kommunale-waermewende/bundesgesetz-zur-waermeplanung#c636, zuletzt geprüft am 02.05.2025.</li>
+<li>Hörner, Michael; Bischof, Julian. Typologie der Nichtwohngebäude in Deutschland. Institut Wohnen und Umwelt (IWU). Darmstadt, 2022. DOI: 10.13140/RG.2.2.31628.80008, URL: https://github.com/IWUGERMANY/Nichtwohngebaeude-Typologie-Deutschland/tree/main</li>
+<li>Institut Wohnen und Umwelt GmbH. Deutsche Wohngebäudetypologie Beispielhafte Maßnahmen zur Verbesserung der Energieeffizienz von typischen Wohngebäuden, Darmstadt 2015, online verfügbar: https://www.iwu.de/fileadmin/publikationen/gebaeudebestand/episcope/2015_IWU_LogaEtAl_Deutsche-Wohngeb%C3%A4udetypologie.pdf</li>
+
 
 
 
@@ -294,7 +304,7 @@
   <tr>
     <th>Einstufung von Gebäuden als GEG-relevant</th>
     <th>Basis-DLM: Siedlung: Wohnbaufläche, etc.</th>
-    <th>Bauland-Datensatz vom LVermGeo mit Art der Nutzung; BImSchG; DEHst; Wirtschaftszweig von MaStR-Anlagenbetreiber</th>
+    <th></th>
   </tr>  
   <tr>
     <th>Wärmebedarf Gebäude</th>
