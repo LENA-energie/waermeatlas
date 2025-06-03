@@ -182,8 +182,7 @@
     <td>X</td>
     <td>X</td>
   </tr>  
-
-      <tr>
+  <tr>
     <td>objid_str</td>
     <td>X</td>
     <td>X</td>
@@ -193,7 +192,7 @@
     <td>X</td>
     <td>X</td>
   </tr>  
-    <tr>
+  <tr>
     <td>gid_bp</td>
     <td>X</td>
     <td>X</td>
@@ -202,8 +201,7 @@
     <td>gid_fnp</td>
     <td>X</td>
     <td>X</td>
-  </tr>  
-  
+  </tr> 
   <tr>
     <td>Geometriepunkt</td>
     <td>the_geom</td>
