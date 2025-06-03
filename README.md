@@ -188,9 +188,9 @@
     <td>aus Basis-DLM</td>
   </tr>
   <tr>
-    <td>Zensus-ID der 100m-Gitterzelle</td>
+    <td>Zensus-ID</td>
     <td>gitter_id</td>
-    <td>-</td>
+    <td>100m-Gitter</td>
   </tr>  
   <tr>
     <td>Bauplan-ID</td>
