@@ -29,7 +29,7 @@
   <tr>
     <td>Endenergiesektor</td>
     <td>sektor</td>
-    <td>-</td>
+    <td>z.B. WG, NWG, gemischt, kein_bedarf</td>
   </tr>
   <tr>
     <td>Energetischer Gebäudetyp GEMOD (Code)</td>
