@@ -158,27 +158,48 @@
     <td>X</td>
   </tr>
   <tr>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>  
-    <tr>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>X</td>
+    <td>bak_z_p</td>
     <td>X</td>
     <td>X</td>
   </tr>  
     <tr>
-    <td>X</td>
+    <td>gmdschl</td>
     <td>X</td>
     <td>X</td>
   </tr>
   <tr>
+    <td>strssname</td>
     <td>X</td>
+    <td>X</td>
+  </tr>  
+    <tr>
+    <td>gid_tn</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>gid_str</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>  
+
+      <tr>
+    <td>objid_str</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>gitter_id</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>  
+    <tr>
+    <td>gid_bp</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>gid_fnp</td>
     <td>X</td>
     <td>X</td>
   </tr>  
@@ -190,7 +211,6 @@
   </tr>
   </tbody>
 </table>
-  , , , , , bak_z_p, gmdschl, strssname, gid_tn, gid_str, objid_str, gitter_id, gid_bp, gid_fnp, 
   
 
 <br><br><br><!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
