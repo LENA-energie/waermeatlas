@@ -123,89 +123,89 @@
     <td>z.B. "Unter der Erdoberfläche"</td>
   </tr>
   <tr>
-    <td>Dachform</td>
+    <td>Dachform vom LoD2</td>
     <td>dachform</td>
-    <td>X</td>
+    <td>z.B. 1000: Flachdach, 3100: Satteldach, etc.</td>
   </tr>
   <tr>
+    <td>Überwiegender Wohngebäude-Gebäudetyp je 100m-Gitter abgeleitet aus Zensus</td>
     <td>geb_typ_z</td>
-    <td>X</td>
-    <td>X</td>
+    <td>z.B. EFH, RH, MFH, GMH, SONST</td>
   </tr>
   <tr>
+    <td>Anteil des überwiegenden Wohngebäude-Gebäudetyps</td>
     <td>geb_typ_p</td>
-    <td>X</td>
-    <td>X</td>
+    <td>z.B. 100</td>
   </tr>
   <tr>
+    <td>Baualtersklasse für Wohngebäude (EFH, RH)</td>
     <td>bak_ezfh</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>
     <tr>
+    <td>Baualtersklasse für Wohngebäude (MFH, GMH)</td>
     <td>bak_mfh</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>
   <tr>
+    <td>Baualtersklasse für Nichtwohngebäude</td>
     <td>bak_nwg</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>  
   <tr>
+    <td>Baujahr der Wohngebäude in Mikro-Zensus-Klassen (100m-Gitter)</td>
     <td>bak_z</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>
   <tr>
+    <td>Anteil des überwiegenden Baujahrs in Mikro-Zensus-Klassen</td>
     <td>bak_z_p</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>  
     <tr>
+    <td>Amtlicher Gemeindeschlüssel (AGS, 8-stellig)</td>
     <td>gmdschl</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>
   <tr>
+    <td>Straßenname</td>
     <td>strssname</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>  
     <tr>
+    <td>Siedlungsflächen-ID</td>
     <td>gid_tn</td>
-    <td>X</td>
-    <td>X</td>
+    <td>aus Basis-DLM</td>
   </tr>
   <tr>
+    <td>Straßenabschnitt-ID</td>
     <td>gid_str</td>
-    <td>X</td>
-    <td>X</td>
+    <td>aus Basis-DLM</td>
   </tr>  
   <tr>
+    <td>Straßenabschnitt-ID</td>
     <td>objid_str</td>
-    <td>X</td>
-    <td>X</td>
+    <td>aus Basis-DLM</td>
   </tr>
   <tr>
+    <td>Zensus-ID der 100m-Gitterzelle</td>
     <td>gitter_id</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>  
   <tr>
+    <td>Bauplan-ID</td>
     <td>gid_bp</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>
   <tr>
+    <td>Flächennutzungsplan-ID</td>
     <td>gid_fnp</td>
-    <td>X</td>
     <td>X</td>
   </tr> 
   <tr>
-    <td>Geometriepunkt</td>
+    <td>Geometriepolygon</td>
     <td>the_geom</td>
-    <td>Mittelpunkt der Gebäudegrundfläche</td>
+    <td>Polygon der Gebäudegrundfläche</td>
   </tr>
   </tbody>
 </table>
