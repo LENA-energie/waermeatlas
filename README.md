@@ -5,8 +5,8 @@
   <caption>Übersicht Datenpunkte Wärmeatlas Sachsen-Anhalt</caption>
   <thead>
   <tr>
-    <th width=20%>Parameter</th>
-    <th width=20%>Spaltentitel</th>
+    <th width=30%>Parameter</th>
+    <th width=10%>Spaltentitel</th>
     <th width=60%>Beschreibung</th>
   </tr>    
   </thead>
