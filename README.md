@@ -42,89 +42,89 @@
     <td>Energetischer Gebäudetyp nach der Typologie des ifeu-Gebäudemodells GEMOD (basierend auf IWU-Gebäudetypologien Wohn- und Nichtwohngebäude).</td>
   </tr>
   <tr>
-    <td>Gebäudefunktionsschlüssel (Code)</td>
+    <td>Gebäudefunktion für Objektart AX_Gebaeude (Code)</td>
     <td>code_g</td>
-    <td>-</td>
+    <td>LSA-Profil des ATKIS-Basis-DLM Version 7.1.2, Stand: 11/2023, URL: https://www.lvermgeo.sachsen-anhalt.de/de/datei/download/id/166811,501/lsa_profil_atkis_basis_dlm_7.1.2.pdf</td>
   </tr>
   <tr>
-    <td>Gebäudefunktionsschlüssel (Text)</td>
+    <td>Gebäudefunktion für Objektart AX_Gebaeude (Text)</td>
     <td>code_g_txt</td>
-    <td>-</td>
+    <td>LSA-Profil des ATKIS-Basis-DLM Version 7.1.2, Stand: 11/2023, URL: https://www.lvermgeo.sachsen-anhalt.de/de/datei/download/id/166811,501/lsa_profil_atkis_basis_dlm_7.1.2.pdf</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Funktion für Objektarten zur Siedlung (Code)</td>
     <td>code_f</td>
-    <td>X</td>
+    <td>LSA-Profil des ATKIS-Basis-DLM Version 7.1.2, Stand: 11/2023, URL: https://www.lvermgeo.sachsen-anhalt.de/de/datei/download/id/166811,501/lsa_profil_atkis_basis_dlm_7.1.2.pdf</td>
   </tr>
   <tr>
+    <td>Funktion für Objektarten zur Siedlung (Text)</td>
     <td>code_f_txt</td>
-    <td>X</td>
-    <td>X</td>
+    <td>LSA-Profil des ATKIS-Basis-DLM Version 7.1.2, Stand: 11/2023, URL: https://www.lvermgeo.sachsen-anhalt.de/de/datei/download/id/166811,501/lsa_profil_atkis_basis_dlm_7.1.2.pdf</td>
   </tr>
   <tr>
+    <td>Grundfläche [m²]</td>
     <td>gflache_m2</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Grundfläche des Gebäudes, abgeleitet aus Hausumring-Geometrie.</td>
   </tr>
   <tr>
+    <td>Energiebezugsfläche [m²]</td>
     <td>eflache_m2</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Energetische Nutzfläche berechnet aus der Grundflächem X Flächenkorrekturfaktor (VDI 3807 Blatt 2).</td>
   </tr>
   <tr>
+    <td>Gebäudehöhe [m]</td>
     <td>geb_hoehe</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Gebäudehöhe [m] vom LoD2 / Gebäudehöhe [m] vom LoD1 / Imputation</td>
   </tr>
   <tr>
+    <td>Gebäudehöhe [m] vom LoD2</td>
     <td>g_hoehe_2</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Höhe des Gebäudes - LoD2: Differenz zwischen dem höchsten Bezugspunkt (First) und dem tiefsten Bezugspunkt (Bodenhöhe)</td>
   </tr>
   <tr>
+    <td>Gebäudehöhe [m] vom LoD1</td>
     <td>g_hoehe_1</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Höhe des Gebäudes - LoD1: Differenz der durchschnittlichen Dachhöhe und der Bodenhöhe</td>
   </tr>
   <tr>
+    <td>Gebäudevolumen [m²]</td>
     <td>g_volumen</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Grundfläche [m²] * Gebäudehöhe [m]</td>
   </tr>
   <tr>
+    <td>Geschosshöhe [m]</td>
     <td>gsshoehe</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Annahmen je Gebäudefunktion für Objektart AX_Gebaeude (Code)</td>
   </tr>
   <tr>
+    <td>Anzahl der oberirdischen Geschosse</td>
     <td>anz_og</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Gebäudehöhe [m] / Geschosshöhe [m]</td>
   </tr>
   <tr>
+    <td>Korrekturfaktor Dachgeschossausbau</td>
     <td>fk_dg_ausb</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Je nach Dachform wird ein Korrekturfaktor für den Ausbau des Dachgeschosses angenommen.</td>
   </tr>
   <tr>
+    <td>Korrekturfaktor für gemischt genutzte Wohngebäude</td>
     <td>fk_wg_nwg</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Anteil der Wohnfläche bei gemischt genutzten Wohngebäuden. Annahme: unterste Etage ist gewerblich genutzt, wenn es mehr als eine Etage gibt.</td>
   </tr>
   <tr>
+    <td>Eistufung GEG-Relevanz</td>
     <td>beheizt</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Im Anschluss an Gebäudetypisierung durchgeführte generische Einstufung auf Basis von Gebäudegrundfläche, Siedlungsfläche, Gebäudehöhe, Gebäudevolumen, Gebäudefunktion: 100: "relevant", 0: "irrelvant", etc..</td>
   </tr>
 
   <tr>
+    <td>Lage zur Erdoberfläche</td>
     <td>rellage</td>
-    <td>X</td>
-    <td>X</td>
+    <td>z.B. "Unter der Erdoberfläche"</td>
   </tr>
   <tr>
+    <td>Dachform</td>
     <td>dachform</td>
-    <td>X</td>
     <td>X</td>
   </tr>
   <tr>
