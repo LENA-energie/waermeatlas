@@ -14,46 +14,46 @@
   <tr>
     <td>Gebäude-ID</td>
     <td>gid</td>
-    <td></td>
+    <td>Eindeutiger Gebäudeschlüssel</td>
   </tr>
   <tr>
+    <td>Gebäude-ID</td>
     <td>gml_id</td>
-    <td>X</td>
-    <td>X</td>
+    <td>ALKIS ID des Gebäudes</td>
   </tr>
   <tr>
+    <td>Nutzenergiebedarf Energiekennzahlenverfahren [kWh/a]</td>
     <td>waerme_kwh</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Geschätzter Nutzenergiebedarf zur Versorgung des Gebäudes.</td>
   </tr>
   <tr>
+    <td>Endenergiesektor</td>
     <td>sektor</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>
   <tr>
+    <td>Energetischer Gebäudetyp GEMOD (Code)</td>
     <td>g_gemod</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Energetischer Gebäudetyp nach der Typologie des ifeu-Gebäudemodells GEMOD (basierend auf IWU-Gebäudetypologien Wohn- und Nichtwohngebäude).</td>
   </tr>
   <tr>
+    <td>Energetischer Gebäudetyp GEMOD (Text)</td>
     <td>g_gemod_tx</td>
-    <td>X</td>
-    <td>X</td>
+    <td>Energetischer Gebäudetyp nach der Typologie des ifeu-Gebäudemodells GEMOD (basierend auf IWU-Gebäudetypologien Wohn- und Nichtwohngebäude).</td>
   </tr>
   <tr>
+    <td>Gebäudefunktionsschlüssel (Code)</td>
     <td>code_g</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>
   <tr>
+    <td>Gebäudefunktionsschlüssel (Text)</td>
     <td>code_g_txt</td>
-    <td>X</td>
-    <td>X</td>
+    <td>-</td>
   </tr>
   <tr>
+    <td></td>
     <td>code_f</td>
-    <td>X</td>
     <td>X</td>
   </tr>
   <tr>
