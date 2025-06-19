@@ -69,7 +69,7 @@
     <td>Grundfläche des Gebäudes, abgeleitet aus Hausumring-Geometrie.</td>
   </tr>
   <tr>
-    <td>Energiebezugsfläche [m²]</td>
+    <td>Energiebezugsfläche je Geschoss [m²]</td>
     <td>eflache_m2</td>
     <td>Energetische Nutzfläche berechnet aus der Grundflächem X Flächenkorrekturfaktor (VDI 3807 Blatt 2).</td>
   </tr>
