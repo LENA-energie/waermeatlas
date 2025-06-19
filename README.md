@@ -1,7 +1,7 @@
 # Modellentwicklung nach dem Energiekennzahlenverfahren
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>Beschreibung</h2>
-![image](https://github.com/user-attachments/assets/d5e4ba05-b846-473b-aad1-7fe2da545d06)
+(siehe kwp-st_waermeatlas.png)
 
 <table width='100%'>
   <caption>Übersicht Datenpunkte Wärmeatlas Sachsen-Anhalt</caption>
